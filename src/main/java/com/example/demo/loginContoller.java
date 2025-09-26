@@ -10,7 +10,7 @@ public class loginContoller {
 
 	@GetMapping("/")
 	public String home() {
-		System.out.println("준제바보");
+		System.out.println("준제ㅇㅇ바보");
 		return "index";
 	}
 }
