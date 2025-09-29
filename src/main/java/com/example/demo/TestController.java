@@ -2,6 +2,5 @@ package com.example.demo;
 
 public class TestController {
 
-	//섹스
-	// 온더비치ㅇㅍㄴㄹㅇ
+	//버닝썬준섭입니다
 }
